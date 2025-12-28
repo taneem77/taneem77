@@ -1,59 +1,59 @@
-<div align="center">
+# Hi, I’m Tanisha 👋
 
-# 💫 About Me  
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&width=650&center=true&lines=Second-year+CS+Student+@+PES+University;Strong+in+C+%26+Data+Structures;Building+Backend+Solutions;Focused+on+CS+Fundamentals" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&width=650&lines=Second-year+Computer+Science+Student+@+PES+University;Strong+in+C+and+Data+Structures;Focused+on+Backend+Engineering+and+CS+Fundamentals" alt="Typing SVG" />
 
 ---
 
-### 👩‍💻 Who I Am  
-🎓 Second-year **Computer Science student** at **PES University**  
-💡 Strong in **C, Data Structures, and problem-solving**  
-📚 Currently learning:  
-**DSA • OOP • DBMS • Operating Systems • Computer Networks**  
+## About Me
+I’m a second-year Computer Science student at **PES University** with a strong foundation in **C, Data Structures, and problem-solving**.  
+I enjoy breaking down complex problems, writing efficient code, and building systems with a clear understanding of how things work under the hood.
 
-🎯 Interested in:  
-**Software Development • Backend Engineering • AI/ML**
+I’m currently strengthening my core CS knowledge through:
+- Data Structures and Algorithms  
+- Object-Oriented Programming  
+- Database Management Systems  
+- Operating Systems  
+- Computer Networks  
 
----
-
-### 🛠️ Languages & Tools  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,mongodb,git&theme=dark" />
-
----
-
-### 📂 What You’ll Find Here  
-📌 Academic projects  
-🧠 DSA practice & implementations  
-⚙️ Mini projects from coursework & self-learning  
-
-All projects focus on:  
-✔ clean code  
-✔ optimal time complexity  
-✔ strong fundamentals  
+My primary interests lie in **Software Development** and **Backend Engineering**, and I’m gradually exploring **AI/ML** alongside my coursework.
 
 ---
 
-### 🚀 Actively Improving  
-📈 Code quality & readability  
-⚙️ Time and space optimization  
-🧠 System-level thinking  
-📚 Core CS depth  
+## Languages & Tools
+![C](https://skillicons.dev/icons?i=c&theme=dark)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
 
 ---
 
-### 🎯 Goal  
-**Build rock-solid fundamentals and land top-tier internships**
+## What You’ll Find in This Repository
+- Academic projects from coursework  
+- Data Structures and Algorithm implementations  
+- Mini projects from self-learning and experimentation  
+
+I focus on:
+- Writing clean, readable code  
+- Improving time and space complexity  
+- Building strong fundamentals before abstractions  
 
 ---
 
-### 🌐 Connect With Me  
-<a href="https://www.linkedin.com/in/tanisha-mathur-230586336/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## Currently Working On
+- Improving code quality and structure  
+- Developing system-level thinking  
+- Deepening understanding of core CS subjects  
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+## Goal
+Build strong fundamentals and secure **top-tier software engineering internships**.
 
-</div>
+---
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-mathur-230586336/)
